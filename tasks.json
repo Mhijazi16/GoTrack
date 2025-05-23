@@ -1,10 +1,12 @@
 [
   {
     "name": "Task1",
-    "Description": "one two three"
+    "Description": "one two three",
+    "status": "progress"
   },
   {
     "name": "Task2",
-    "Description": "three two one"
+    "Description": "three two one",
+    "status": "done"
   }
 ]
